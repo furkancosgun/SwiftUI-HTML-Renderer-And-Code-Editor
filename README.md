@@ -1,7 +1,21 @@
 
 # SwiftUI HTML Renderer And Code Editor
 
-	 SwiftUI HTML Renderer And Code Editor
+## Features 
+
+- DarkMode / LightMode
+- Live Renderer
+- Upload / ( Export / Save ) HTML
+
+
+## Contributing
+
+Contributions are always welcome!
+
+To get started, please take a look at the 'Issues' tab, where you will find open issues that exist with the project. If you see one that interests you, simply create a branch and submit a PR for review and approval.
+
+
+# Screenshots
  
 <br>
 <table>
